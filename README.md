@@ -4,4 +4,4 @@ The Simon Game is a project from Udemy's **The Complete 2023 Web Development Boo
 
 This project mainly involves training the knowledge of **Javascript** and **jQuery** acquired in the course, .
 
-![alt text](https://raw.githubusercontent.com/NathSantos/Tindog/main/tindog.gif)
+![alt text](https://raw.githubusercontent.com/NathSantos/The-Simon-Game/main/simonGame.gif)
